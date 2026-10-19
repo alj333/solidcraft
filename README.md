@@ -46,6 +46,8 @@
 
 ## Download
 
+Fork-specific Windows setup and planned staff testing: [Windows staff pilot notes](docs/windows-staff-testing.md).
+
 - **Windows:** download and run the [installer][windows-msi].
   Also for [ARM64][windows-arm64-msi] and [32-bit][windows-x86-msi] PCs, or as a
   [portable zip][windows-portable] that runs without installing.
